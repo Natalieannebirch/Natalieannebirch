@@ -21,8 +21,7 @@ You can check out some of the sites I contributed to here:
 - <a href="https://fixpaga.com/" target="blank">Example 2</a>
 - <a href="https://fixtheinsurancecrisis.com/" target="blank">Example 3</a>
 - <a href="https://cafob.org/" target="blank">Example 4</a>
-- <a href="https://stories.patientsoverpremiums.org/" target="blank">Example 5</a>
-- <a href="https://togetherforpatientcarewa.com/" target="blank">Example 6</a>
+- <a href="https://togetherforpatientcarewa.com/" target="blank">Example 5</a>
 
 ## :open_hands: Connect
 I'm always looking for new opportunities, connect with me on LinkedIn:  
