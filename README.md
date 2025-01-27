@@ -1,6 +1,7 @@
 # :sunny: Hi, I'm Natalie!
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&multiline=true&repeat=false&random=false&width=435&lines=Web+Developer+from+Sunny+San+Diego)](https://git.io/typing-svg)  
-With 3+ years of creating attractive, user-friendly websites for a variety of end users. I am all about blending beautiful designs with coding magic to create one of a kind websites. When I'm not crafting pixel-perfect websites, you'll find me hanging out with my pup, Jax.
+***Web Developer based in Sunny San Diego***
+
+With 4 years of creating attractive, user-friendly websites for a variety of end users. I am all about blending beautiful designs with coding magic to create one of a kind websites. When I'm not crafting pixel-perfect websites, you'll find me hanging out with my pup, Jax.
 
 ## :sparkles: Top Skills
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
@@ -9,11 +10,15 @@ With 3+ years of creating attractive, user-friendly websites for a variety of en
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 
 ## :orange_book: Currently Learning
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 ## :briefcase: Past Work
 You can check out some of the sites I contributed to here:
