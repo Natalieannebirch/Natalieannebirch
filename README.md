@@ -1,5 +1,5 @@
 # :sunny: Hi, I'm Natalie!
-***Web Developer based in Sunny San Diego***
+***Software Engineer at Agent Elite, Inc. Based in Sunny San Diego***
 
 With 4 years of creating attractive, user-friendly websites for a variety of end users. I am all about blending beautiful designs with coding magic to create one of a kind websites. When I'm not crafting pixel-perfect websites, you'll find me hanging out with my pup, Jax.
 
