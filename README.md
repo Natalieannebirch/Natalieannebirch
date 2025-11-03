@@ -22,10 +22,10 @@ With 4 years of creating attractive, user-friendly websites for a variety of end
 
 ## :briefcase: Past Work
 You can check out some of the sites I contributed to here:
-- <a href="https://protectsanjoserestaurants.com/" target="blank">Example 1</a>
-- <a href="https://fixtheinsurancecrisis.com/" target="blank">Example 2</a>
-- <a href="https://cafob.org/" target="blank">Example 3</a>
-- <a href="https://togetherforpatientcarewa.com/" target="blank">Example 4</a>
+- <a href="https://sellinghawaiihomes.com/" target="blank">Custom WordPress Theme and Plugin</a>
+- <a href="https://protectsanjoserestaurants.com/" target="blank">Custom WordPress Site 1</a>
+- <a href="https://fixtheinsurancecrisis.com/" target="blank">Custom WordPress Site 2</a>
+- <a href="https://cafob.org/" target="blank">Custom WordPress Site 3</a>
 
 ## :open_hands: Connect
 I'm always looking for new opportunities, connect with me on LinkedIn:  
